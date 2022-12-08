@@ -403,7 +403,7 @@ You can use the `&layout=compact` option to change the card design.
 
 -   Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdplv&layout=compact)](https://github.com/jdvpl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdvpl&layout=compact)](https://github.com/jdvpl/github-readme-stats)
 
 # Wakatime Week Stats
 
